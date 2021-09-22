@@ -2,6 +2,7 @@
 title: "DOA To Regularly Perform Live On WXOX"
 date: 2020-04-22T19:00:00-05:00
 draft: false
+summary: New show on WXOX 97.1 FM - Late Night!
 ---
 
 ## Olde Time Radio Hour 

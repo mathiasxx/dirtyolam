@@ -2,6 +2,7 @@
 title: "DOA Nachbar"
 date: 2018-08-26T21:00:00-05:00
 draft: false
+summary: DOA live at Nachbar!
 ---
 
 ## DOA at the Nachbar with AWWFLUXX
