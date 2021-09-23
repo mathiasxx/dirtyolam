@@ -33,7 +33,7 @@ WXOX Louisville or streaming worldwide at [ARTxFM.com](https://artxfm.com)
 - 09.02.2021 - [Shane Spaulding]({{< ref "lftashane" >}})
 - 09.16.2021 - [Antonio Melo]({{< ref "lftaantonio" >}})
 - 09.30.2021 - Antonio Melo (back for more!)
-- 10.14.2021 - Joey Conroy
+- 10.14.2021 - Joee Conroy
 
 ***
 
