@@ -12,7 +12,7 @@ Live From The Addition features live, improvisational music in a relaxed
 setting. Frequent guests will be a feature of the show.
 
 
-![pic](/img/doa-live-0902.jpg)
+![pic](/img/withtony.png)
 
 ****
 
