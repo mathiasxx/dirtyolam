@@ -26,14 +26,18 @@ Wednesdays at midnight eastern (0400GMT)
 
 WXOX Louisville or streaming worldwide at [ARTxFM.com](https://artxfm.com)
 
-***
+## &nbsp;
 
 ## Guest Schedule:
 
-- 09.02.2021 - [Shane Spaulding]({{< ref "lftashane" >}})
-- 09.16.2021 - [Antonio Melo]({{< ref "lftaantonio" >}})
-- 09.30.2021 - Antonio Melo (back for more!)
-- 10.14.2021 - Joee Conroy
+- 09.01.2021 - [Shane Spaulding]({{< ref "lftashane" >}})
+- 09.15.2021 - [Antonio Melo]({{< ref "lftaantonio" >}})
+- 09.29.2021 - Antonio Melo (back for more!)
+- 10.13.2021 - Joee Conroy
+- 10.27.2021 - tbd
+- 11.10.2021 - tbd
+- 11.17.2021 - (DJ set only)
+- 12.01.2021 - tbd
 
 ***
 
