@@ -11,7 +11,7 @@ On October 13th, 2021 Joee Conroy showed up and killed it on
 
 ## &nbsp;
 
-(picture comming soon!)
+![pic](/img/withjoee.jpg)
 
 
 
