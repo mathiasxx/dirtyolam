@@ -33,12 +33,13 @@ WXOX Louisville or streaming worldwide at [ARTxFM.com](https://artxfm.com)
 - 09.01.2021 - [Shane Spaulding]({{< ref "lftashane" >}})
 - 09.15.2021 - [Antonio Melo]({{< ref "lftaantonio" >}})
 - 09.29.2021 - Antonio Melo (back for more!)
-- 10.13.2021 - Joee Conroy
+- 10.13.2021 - [Joee Conroy]({{<ref "lftajoee" >}})
 - 10.27.2021 - Antonio Melo
-- 11.17.2021 - (substitute)
+- 11.17.2021 - (sub: DJ Aaron Conaway)
 - 11.24.2021 - (DJ set)
-- 12.01.2021 - tbd
-- 12.15.2021 - tbd
+- 12.01.2021 - Antonio Melo
+- 12.15.2021 - Shutaro Noguchi
+- 12.29.2021 - (DJ set)
 
 ***
 
