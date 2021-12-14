@@ -24,7 +24,7 @@ Wednesdays at midnight eastern (0400GMT)
 
 **where**
 
-WXOX Louisville or streaming worldwide at [ARTxFM.com](https://artxfm.com)
+97.1 WXOX Louisville or streaming worldwide at [ARTxFM.com](https://artxfm.com)
 
 ## &nbsp;
 
@@ -37,7 +37,7 @@ WXOX Louisville or streaming worldwide at [ARTxFM.com](https://artxfm.com)
 - 10.27.2021 - Antonio Melo
 - 11.17.2021 - (sub: DJ Aaron Conaway)
 - 11.24.2021 - (DJ set)
-- 12.01.2021 - Antonio Melo
+- 12.01.2021 - [Antonio Melo]({{<ref "lftaantonio1201" >}})
 - 12.15.2021 - Shutaro Noguchi
 - 12.29.2021 - (DJ set)
 
