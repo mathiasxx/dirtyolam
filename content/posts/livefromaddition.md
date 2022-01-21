@@ -30,16 +30,18 @@ Wednesdays at midnight eastern (0400GMT)
 
 ## Guest Schedule:
 
-- 09.01.2021 - [Shane Spaulding]({{< ref "lftashane" >}})
-- 09.15.2021 - [Antonio Melo]({{< ref "lftaantonio" >}})
-- 09.29.2021 - Antonio Melo (back for more!)
-- 10.13.2021 - [Joee Conroy]({{<ref "lftajoee" >}})
-- 10.27.2021 - Antonio Melo
-- 11.17.2021 - (sub: DJ Aaron Conaway)
-- 11.24.2021 - (DJ set)
-- 12.01.2021 - [Antonio Melo]({{<ref "lftaantonio1201" >}})
-- 12.15.2021 - Shutaro Noguchi
+- 02.02.2022 - TBD
+- 01.19.2022 - [Antonio Melo]({{<ref "lftaantonio220119" >}})
 - 12.29.2021 - (DJ set)
+- 12.15.2021 - [Shutaro Noguchi]({{<ref "lftashu1215" >}})
+- 12.01.2021 - [Antonio Melo]({{<ref "lftaantonio1201" >}})
+- 11.24.2021 - (DJ set)
+- 11.17.2021 - (sub: DJ Aaron Conaway)
+- 10.27.2021 - Antonio Melo
+- 10.13.2021 - [Joee Conroy]({{<ref "lftajoee" >}})
+- 09.29.2021 - Antonio Melo (back for more!)
+- 09.15.2021 - [Antonio Melo]({{< ref "lftaantonio" >}})
+- 09.01.2021 - [Shane Spaulding]({{< ref "lftashane" >}})
 
 ***
 
