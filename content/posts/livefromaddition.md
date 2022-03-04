@@ -30,7 +30,9 @@ Wednesdays at midnight eastern (0400GMT)
 
 ## Guest Schedule:
 
-- 03.02.2022 - TBD
+- 03.30.2022 - TBD
+- 03.16.2022 - TBD
+- 03.02.2022 - [Antonio Melo]({{<ref "lftaantonio220302" >}})
 - 02.09.2022 - [Antonio Melo]({{<ref "lftaantonio220209" >}})
 - 01.19.2022 - [Antonio Melo]({{<ref "lftaantonio220119" >}})
 - 12.29.2021 - (DJ set)
