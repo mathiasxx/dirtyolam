@@ -30,16 +30,14 @@ Wednesdays at midnight eastern (0400GMT)
 
 ## Guest Schedule:
 
-- 03.30.2022 - TBD
-- 03.16.2022 - TBD
+- 04.20.2022 - TBD
+- 04.06.2022 - (DJ set)
+- 03.23.2022 - [Ben Drees]({{<ref "lftaben220323" >}})
 - 03.02.2022 - [Antonio Melo]({{<ref "lftaantonio220302" >}})
 - 02.09.2022 - [Antonio Melo]({{<ref "lftaantonio220209" >}})
 - 01.19.2022 - [Antonio Melo]({{<ref "lftaantonio220119" >}})
-- 12.29.2021 - (DJ set)
 - 12.15.2021 - [Shutaro Noguchi]({{<ref "lftashu1215" >}})
 - 12.01.2021 - [Antonio Melo]({{<ref "lftaantonio1201" >}})
-- 11.24.2021 - (DJ set)
-- 11.17.2021 - (sub: DJ Aaron Conaway)
 - 10.27.2021 - Antonio Melo
 - 10.13.2021 - [Joee Conroy]({{<ref "lftajoee" >}})
 - 09.29.2021 - Antonio Melo (back for more!)
@@ -48,7 +46,7 @@ Wednesdays at midnight eastern (0400GMT)
 
 ***
 
-Be a guest! Contact `doa@ambushersound.com`
+Be my guest! Contact `doa@ambushersound.com`
 
 
 
