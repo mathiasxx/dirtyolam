@@ -30,8 +30,9 @@ Wednesdays at midnight eastern (0400GMT)
 
 ## Guest Schedule:
 
-- 03.30.2022 - TBD
-- 03.16.2022 - TBD
+- 05.25.2022 - (sub: Party Pants)
+- 05.18.2022 - Antonio Melo
+- 04.06.2022 - (DJ set)
 - 03.02.2022 - [Antonio Melo]({{<ref "lftaantonio220302" >}})
 - 02.09.2022 - [Antonio Melo]({{<ref "lftaantonio220209" >}})
 - 01.19.2022 - [Antonio Melo]({{<ref "lftaantonio220119" >}})
