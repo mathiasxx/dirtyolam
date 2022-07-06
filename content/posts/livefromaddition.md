@@ -30,6 +30,11 @@ Wednesdays at midnight eastern (0400GMT)
 
 ## Guest Schedule:
 
+- 06.03.2022 - (sub: TBD)
+- 06.27.2022 - (sub: TBD)
+- 06.20.2022 - (DJ set)
+- 06.13.2022 - (sub: TBD)
+- 06.29.2022 - Tim Barnes
 - 05.25.2022 - (sub: Party Pants)
 - 05.18.2022 - Antonio Melo
 - 04.06.2022 - (DJ set)
