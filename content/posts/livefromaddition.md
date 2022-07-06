@@ -35,9 +35,7 @@ Wednesdays at midnight eastern (0400GMT)
 - 06.20.2022 - (DJ set)
 - 06.13.2022 - (sub: TBD)
 - 06.29.2022 - Tim Barnes
-- 05.25.2022 - (sub: Party Pants)
 - 05.18.2022 - Antonio Melo
-- 04.06.2022 - (DJ set)
 - 03.23.2022 - [Ben Drees]({{<ref "lftaben220323" >}})
 - 03.02.2022 - [Antonio Melo]({{<ref "lftaantonio220302" >}})
 - 02.09.2022 - [Antonio Melo]({{<ref "lftaantonio220209" >}})
